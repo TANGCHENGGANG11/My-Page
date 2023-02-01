@@ -751,15 +751,4 @@ content:
         - name: 网易uedc
           description: 网易用户体验设计中心（User Experience Design Center）
           url: http://uedc.163.com/
-        - name: 百度用户体验中心
-          description: 百度用户体验中心
-          url: http://ued.baidu.com/
-        - name: 京东设计中心
-          description: 京东设计中心
-          url: http://jdc.jd.com/
-        - name: 百度企业产品用户体验中心
-          description: 百度企业产品用户体验中心
-          url: http://eux.baidu.com/
-        - name: 携程设计委员会
-          description: 携程设计委员会-Ctrip Design Committee
-          url: http://ued.ctrip.com/
+       
