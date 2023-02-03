@@ -52,3 +52,84 @@ content:
         - name: Yandex搜索引擎
           description: 俄罗斯搜索引擎
           url: https://yandex.com/?ref=qinggongju.com
+    - name: 影音专区
+      sites:
+        - name: MyfreeMP3
+          description: 音乐下载
+          url: https://tools.liumingye.cn/music/#/
+        - name: 全能VIP视频在线解析
+          description: 全能视频解析
+          url: http://tool.liumingye.cn/video/
+        - name: M3U8在线播放器
+          description: 电视台播放器
+          url: http://tool.liumingye.cn/m3u8/
+        - name: 厂长影视资源汇总
+          description: 在线影音播放
+          url: https://czzy01.com/?ref=lovejay.top
+    - name: 图片工具
+      sites:
+        - name: 视频语音编辑工具
+          description: 各种视频语音编辑工具 Edit, Convert, Create
+          url: https://123apps.com/
+        - name: 图片编辑器
+          description: 在线图片编辑处理
+          url: https://photokit.com/editor/?lang=zh
+        - name: 图片背景消除
+          description: 在线抠图
+          url: https://www.remove.bg/zh
+        - name: 稿定抠图
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+          url: https://www.gaoding.com
+        - name: 在线PS
+          description: PS软件网页版，ps在线图片处理工具photopea-稿定设计PS
+          url: https://ps.gaoding.com/?ref=qinggongju.com#/
+    - name: 图标素材
+      sites:
+        - name: Iconfinder
+          description: 2,100,000+ free and premium vector icons.
+          url: https://www.iconfinder.com
+        - name: iconfont
+          description: 阿里巴巴矢量图标库
+          url: http://www.iconfont.cn/
+        - name: FindIcons
+          description: Search through 300,000 free icons
+          url: https://findicons.com/
+        - name: uuDraw
+          description: 免费可商用自定义颜色插画库
+          url: https://undraw.co/illustrations?ref=qinggongju.com
+    - name: PPT资源
+      sites:
+        - name: PPT库
+          description: Jay资源
+          url: https://www.lovejay.top/ppt%e5%ba%93
+    - name: 每日关注
+      sites:
+        - name: 什么值得关注？
+          description: 每日最新热点
+          url: https://smzdgz.com/?ref=qinggongju.com
+        - name: 什么值得读
+          description: 好书推荐,好书,名著推荐,推荐一本好书,书籍推荐,矛盾文学奖,心灵鸡汤,儿童文学,世界十大名著
+          url: https://www.shenmezhidedu.com/?ref=qinggongju.com
+        - name: NOISE
+          description: 知识效率集
+          url: https://www.noisesite.cn/
+        - name: 图欧学习资源库
+          description: B站TUO图欧君收集整理的资源
+          url: https://tuostudy.com/?ref=qinggongju.com
+     - name: 其他工具
+      sites:
+        - name: IP地址查询
+          description: 瞬间显示IP地址
+          url: https://tool.liumingye.cn/ip/
+        - name: Z-library搜索
+          description: 在线搜索版
+          url: https://zlib.cydiar.com/?ref=qinggongju.com
+        - name: MikuTools
+          description: 一个轻量的工具集合
+          url: https://tools.miku.ac/?ref=qinggongju.com
+        - name: 轻工具
+          description: 一个轻量的工具集合
+          url: https://qinggongju.com/
+        - name: 知乎搬运工
+          description: 岩选搬运工
+          url: https://www.zhbyg.top/
