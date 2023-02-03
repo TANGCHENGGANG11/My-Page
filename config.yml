@@ -94,9 +94,6 @@ content:
         - name: iconfont
           description: 阿里巴巴矢量图标库
           url: http://www.iconfont.cn/
-        - name: Icon Archive
-          description: Search 590,912 free icons
-          url: http://www.iconarchive.com/
         - name: FindIcons
           description: Search through 300,000 free icons
           url: https://findicons.com/
