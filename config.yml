@@ -40,9 +40,6 @@ content:
   categories:
     - name: 常用工具
       sites:
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/   
         - name: 短视频/图集在线处理
           description: 抖音快手等16个平台视频去水印下载
           url: https://watermark.liumingye.cn/
@@ -52,131 +49,43 @@ content:
         - name: EPUB阅读器
           description: 简单的EPUB电子书在线阅读器
           url: https://epub.liumingye.cn/
+        - name: Yandex搜索引擎
+          description: 俄罗斯搜索引擎
+          url: https://yandex.com/?ref=qinggongju.com
+        - name: 磁力精典
+          description: 磁力精典
+          url: https://zxmee.com/
     - name: 影音专区
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
+        - name: MyfreeMP3
+          description: 音乐下载
+          url: https://tools.liumingye.cn/music/#/
+        - name: 全能VIP视频在线解析
+          description: 全能视频解析
+          url: http://tool.liumingye.cn/video/
+        - name: M3U8在线播放器
+          description: 电视台播放器
+          url: http://tool.liumingye.cn/m3u8/
+        - name: 厂长影视资源汇总
+          description: 在线影音播放
+          url: https://czzy01.com/?ref=lovejay.top
     - name: 图片工具
       sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
-    - name: 娱乐游戏
-      sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
-    - name: 其他工具
-      sites:
-        - name: Awwwards
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
-        - name: CSS Design Awards
-          description: Website Awards & Inspiration - CSS Gallery
-          url: https://www.cssdesignawards.com/
-        - name: The FWA
-          description: FWA - showcasing innovation every day since 2000
-          url: https://thefwa.com/
-        - name: Ecommercefolio
-          description: Only the Best Ecommerce Design Inspiration
-          url: http://www.ecommercefolio.com/
-        - name: Lapa
-          description: The best landing page design inspiration from around the web.
-          url: http://www.lapa.ninja/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
-        - name: Designmunk
-          description: Best Homepage Design Inspiration
-          url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
-        - name: Pages
-          description: Curated directory of the best Pages
-          url: http://www.pages.xyz/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
-        - name: WebInspiration
-          description: 网页设计欣赏,全球顶级网页设计
-          url: http://web.uedna.com/
-        - name: navnav
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-          url: http://navnav.co/
-        - name: Really Good UX
-          description: A library of screenshots and examples of really good UX. Brought to you by
-          url: https://www.reallygoodux.io/
+        - name: 视频语音编辑工具
+          description: 各种视频语音编辑工具 Edit, Convert, Create
+          url: https://123apps.com/
+        - name: 图片编辑器
+          description: 在线图片编辑处理
+          url: https://photokit.com/editor/?lang=zh
+        - name: 图片背景消除
+          description: 在线抠图
+          url: https://www.remove.bg/zh
+        - name: 稿定抠图
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+          url: https://www.gaoding.com
+        - name: 在线PS
+          description: PS软件网页版，ps在线图片处理工具photopea-稿定设计PS
+          url: https://ps.gaoding.com/?ref=qinggongju.com#/
     - name: 图标素材
       sites:
         - name: Iconfinder
@@ -185,108 +94,48 @@ content:
         - name: iconfont
           description: 阿里巴巴矢量图标库
           url: http://www.iconfont.cn/
-        - name: iconmonstr
-          description: Free simple icons for your next project
-          url: https://iconmonstr.com/
         - name: Icon Archive
           description: Search 590,912 free icons
           url: http://www.iconarchive.com/
         - name: FindIcons
           description: Search through 300,000 free icons
           url: https://findicons.com/
-        - name: IcoMoonApp
-          description: Icon Font, SVG, PDF & PNG Generator
-          url: https://icomoon.io/app/
-        - name: easyicon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.net/
-        - name: flaticon
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-          url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
-        - name: Material icons
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-          url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
-        - name: ion icons
-          description: The premium icon font for Ionic Framework.
-          url: http://ionicons.com/
-        - name: Simpleline Icons
-          description: Simple line Icons pack
-          url: http://simplelineicons.com/
+        - name: uuDraw
+          description: 免费可商用自定义颜色插画库
+          url: https://undraw.co/illustrations?ref=qinggongju.com
     - name: PPT资源
       sites:
-        - name: OfficePLUS
-          description: OfficePLUS，微软Office官方在线模板网站！
-          url: http://www.officeplus.cn/Template/Home.shtml
-        - name: 优品PPT
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-          url: http://www.ypppt.com/
-        - name: PPT+
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-          url: http://www.pptplus.cn/
-        - name: PPTMind
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-          url: http://www.pptmind.com/
-        - name: tretars
-          description: The best free Mockups from the Web
-          url: http://www.tretars.com/ppt-templates
-        - name: 5百丁
-          description: 中国领先的PPT模板共享平台
-          url: http://ppt.500d.me/
-    - name: 图形创意
+        - name: PPT库
+          description: Jay资源
+          url: https://www.lovejay.top/ppt%e5%ba%93
+    - name: 每日关注
       sites:
-        - name: photoshop
-          description: Photoshop不需要解释
-          url: https://www.adobe.com/cn/products/photoshop.html
-        - name: Affinity Designer
-          description: 专业创意软件
-          url: https://affinity.serif.com/
-        - name: Illustrator
-          description: 矢量图形和插图。
-          url: https://www.adobe.com/cn/products/illustrator/
-        - name: indesign
-          description: 页面设计、布局和出版。
-          url: http://www.adobe.com/cn/products/indesign.html
-        - name: cinema-4d
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-        - name: 3ds-max
-          description: 3D modeling, animation, and rendering software
-          url: https://www.autodesk.com/products/3ds-max/overview
-        - name: Blender
-          description: Blender is the free and open source 3D creation suite.
-          url: https://www.blender.org/
-    - name: 在线工具
+        - name: 什么值得关注？
+          description: 每日最新热点
+          url: https://smzdgz.com/?ref=qinggongju.com
+        - name: 什么值得读
+          description: 好书推荐,好书,名著推荐,推荐一本好书,书籍推荐,矛盾文学奖,心灵鸡汤,儿童文学,世界十大名著
+          url: https://www.shenmezhidedu.com/?ref=qinggongju.com
+        - name: NOISE
+          description: 知识效率集
+          url: https://www.noisesite.cn/
+        - name: 图欧学习资源库
+          description: B站TUO图欧君收集整理的资源
+          url: https://tuostudy.com/?ref=qinggongju.com
+     - name: 其他工具
       sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
-        - name: svgomg
-          description: SVG在线压缩平台
-          url: https://jakearchibald.github.io/svgomg/
-        - name: 稿定抠图
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-          url: https://www.gaoding.com
-    - name: 在线课程
-      sites:
-        - name: 慕课网
-          description: 程序员的梦工厂（有UI课程）
-          url: https://www.imooc.com/
-       
+        - name: IP地址查询
+          description: 瞬间显示IP地址
+          url: https://tool.liumingye.cn/ip/
+        - name: Z-library搜索
+          description: 在线搜索版
+          url: https://zlib.cydiar.com/?ref=qinggongju.com
+        - name: MikuTools
+          description: 一个轻量的工具集合
+          url: https://tools.miku.ac/?ref=qinggongju.com
+        - name: 轻工具
+          description: 一个轻量的工具集合
+          url: https://qinggongju.com/
+        - name: 知乎搬运工
+          description: 岩选搬运工
+          url: https://www.zhbyg.top/
