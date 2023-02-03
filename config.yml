@@ -113,9 +113,6 @@ content:
         - name: NOISE
           description: 知识效率集
           url: https://www.noisesite.cn/
-        - name: 图欧学习资源库
-          description: B站TUO图欧君收集整理的资源
-          url: https://tuostudy.com/?ref=qinggongju.com
      - name: 其他工具
       sites:
         - name: IP地址查询
