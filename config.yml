@@ -52,8 +52,6 @@ content:
         - name: Yandex搜索引擎
           description: 俄罗斯搜索引擎
           url: https://yandex.com/?ref=qinggongju.com
-    - name: 影音专区
-      sites:
         - name: MyfreeMP3
           description: 音乐下载
           url: https://tools.liumingye.cn
@@ -66,8 +64,6 @@ content:
         - name: 厂长影视资源汇总
           description: 在线影音播放
           url: https://czzy01.com/?ref=lovejay.top
-    - name: 图片工具
-      sites:
         - name: 视频语音编辑工具
           description: 各种视频语音编辑工具 Edit, Convert, Create
           url: https://123apps.com/
@@ -83,8 +79,6 @@ content:
         - name: 在线PS
           description: PS软件网页版，ps在线图片处理工具photopea-稿定设计PS
           url: https://ps.gaoding.com/?ref=qinggongju.com
-     - name: 图标素材
-      sites:
         - name: Iconfinder
           description: 2,100,000+ free and premium vector icons.
           url: https://www.iconfinder.com
@@ -97,13 +91,9 @@ content:
         - name: uuDraw
           description: 免费可商用自定义颜色插画库
           url: https://undraw.co/illustrations?ref=qinggongju.com
-     - name: PPT资源
-       sites:
         - name: PPT库
           description: Jay资源
           url: https://www.lovejay.top/ppt%e5%ba%93
-    - name: 每日关注
-      sites:
         - name: 什么值得关注？
           description: 每日最新热点
           url: https://smzdgz.com/?ref=qinggongju.com
@@ -113,8 +103,6 @@ content:
         - name: NOISE
           description: 知识效率集
           url: https://www.noisesite.cn/
-     - name: 其他工具
-       sites:
         - name: IP地址查询
           description: 瞬间显示IP地址
           url: https://tool.liumingye.cn/ip/
