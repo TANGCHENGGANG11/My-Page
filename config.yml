@@ -83,7 +83,7 @@ content:
         - name: 在线PS
           description: PS软件网页版，ps在线图片处理工具photopea-稿定设计PS
           url: https://ps.gaoding.com/?ref=qinggongju.com#/
-    - name: 图标素材
+     - name: 图标素材
       sites:
         - name: Iconfinder
           description: 2,100,000+ free and premium vector icons.
@@ -97,8 +97,8 @@ content:
         - name: uuDraw
           description: 免费可商用自定义颜色插画库
           url: https://undraw.co/illustrations?ref=qinggongju.com
-    - name: PPT资源
-      sites:
+     - name: PPT资源
+       sites:
         - name: PPT库
           description: Jay资源
           url: https://www.lovejay.top/ppt%e5%ba%93
@@ -114,7 +114,7 @@ content:
           description: 知识效率集
           url: https://www.noisesite.cn/
      - name: 其他工具
-      sites:
+       sites:
         - name: IP地址查询
           description: 瞬间显示IP地址
           url: https://tool.liumingye.cn/ip/
