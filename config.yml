@@ -73,12 +73,18 @@ content:
         - name: 图片背景消除
           description: 在线抠图
           url: https://www.remove.bg/zh
+        - name: 改图神器
+          description: 在线修改尺寸
+          url: https://img.logosc.cn/
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
         - name: 在线PS
           description: PS软件网页版，ps在线图片处理工具photopea-稿定设计PS
           url: https://ps.gaoding.com/?ref=qinggongju.com
+        - name: 图片无损放大
+          description: 利用2021年最先进人工智能 AI 将图片无损变高清（支持老照片修复）
+          url: https://jpghd.com/
         - name: Iconfinder
           description: 2,100,000+ free and premium vector icons.
           url: https://www.iconfinder.com
